@@ -13,6 +13,6 @@ Esta obra está liberada bajo una licencia *Creative Commons [/Reconocimiento-No
 [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## ¿Comentarios?
-/ji[arroba]jistark[punto]com/ o *[abre un issue](https://github.com/jistark/cpmx8/issues/new)*.
+ji[arroba]jistark[punto]com/ o *[abre un issue](https://github.com/jistark/cpmx8/issues/new)*.
 
-/Be nice./
+Be nice.
